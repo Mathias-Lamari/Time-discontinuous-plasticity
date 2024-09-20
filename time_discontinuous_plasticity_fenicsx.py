@@ -38,8 +38,8 @@ from ufl.algorithms.formfiles import load_forms
 import meshio
 
 t = 0. # Start time
-T = 15 # 30 la reference; initial End time ou 90
-num_steps = 1500 # Number of time steps
+T = 60 # 30 la reference; initial End time ou 90
+num_steps = 6000 # Number of time steps
 dt = (T-t)/num_steps # Time step size
 #load_amp = 0.0035      # 0.0035 for 5 cm specimen
 length = 10  #eprouvette va de -length a length en x
