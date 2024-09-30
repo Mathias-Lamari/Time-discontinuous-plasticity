@@ -26,3 +26,9 @@ SciPy: 1.11.4
 ufl: 2023.1.1.post0
 
 
+# Videos
+
+Videos of the simulation obtained from the time-discontinuous-plasticity simulation can be found in the Zenodo repository titled ’Time-discontinuous plasticity, data and videos’ at https://zenodo.org/records/13823869, reference number 10.5281/zen-
+odo.13823869.
+
+
