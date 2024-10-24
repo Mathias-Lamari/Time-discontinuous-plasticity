@@ -4,7 +4,6 @@ This repository contains the code used to simulate the time-discontinuous plasti
 
 ## Contents
 
-Files in the folder:
 + `time_discontinuous_plasticity_fenicsx.py`: Contains the source code for the time-discontinuous plasticity model in FEniCSX
 + `Flat_specimen_refined_01.msh`: Contains the geometry used in the reference simulation
 + `averaged_data`: Folder where simulation statistics of stress and plastic strain are save. They are obtained by volume integration over the gauge length.
